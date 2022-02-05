@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 👋, im Pierre Dahmani
+#### CS student by day, full stack developer and devops enthusiast by night :] 
 
-<!--
-**xddq/xddq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [my blog](https://pd-dev.xyz/)
+- 🌱 I’m currently learning **GraphQL**
+- 👯 I’m looking to collaborate on libre software.
+- 📫 How to reach me: hi@pd-dev.xyz
+- 💬 Ask me about: **functional programming**, **devops**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### preferred languages
+- typescript
+- haskell
+- bash

@@ -4,5 +4,5 @@
 - 🔭 In my spare time, I’m working on a full stack RN project.
 - 🌱 I’m currently diving deeper into **GraphQL**, **React Native**.
 - 📫 How to reach me: hi@pd-dev.xyz
-- 👀 Check out [my blog](https://pd-dev.xyz/)
+- 👀 Check out [my blog](https://pd-dev.xyz/blog)
 - 💬 Ask me about: **Typescript**, **functional programming**, **GraphQL**, **DevOps**

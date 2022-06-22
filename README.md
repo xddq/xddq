@@ -6,6 +6,3 @@
 - 📫 How to reach me: hi@pd-dev.xyz
 - 👀 Check out [my blog](https://pd-dev.xyz/blog)
 - 💬 Ask me about: **Typescript**, **functional programming**, **GraphQL**, **DevOps**
-
-
-... might own a self hosted gitlab instance with countless projects :D
